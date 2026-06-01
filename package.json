@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-github-username.github.io/weather-app",
+  "homepage": "https://https://github.com/Vijayv123/weather-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
